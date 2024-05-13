@@ -1,5 +1,7 @@
 # Landing Page 1
 
+![Screenshot 2024-05-13 120852](https://github.com/denilsen29/landingpage1/assets/97108852/d0d18489-540e-4f74-aad3-c401dce21769)
+
 Landing Page 1 adalah website sederhana untuk melihat informasi services, skills, contact, portfolio, dan resume.
 
 #  Menu Services
